@@ -1,6 +1,4 @@
-# Design history for becoming a teacher
 
-https://bat-design-history.netlify.app
 
 ## Purpose of this project
 
