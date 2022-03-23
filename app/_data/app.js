@@ -1,6 +1,6 @@
 module.exports = {
-  productName: 'Becoming a teacher design history',
-  description: 'A history of the designs for the Find, Apply, Publish, Manage, Register and Support services',
+  productName: 'Prepare a case for sentence',
+  description: 'A library of design history and decisions made on the prepare a case for sentence service',
   sections: {
     title: 'Services'
   }

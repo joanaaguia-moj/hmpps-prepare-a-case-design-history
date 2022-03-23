@@ -1,7 +1,0 @@
-{
-  "tags": false,
-  "layout": "page",
-  "eleventyNavigation": {
-    "parent": "find-private-beta"
-  }
-}

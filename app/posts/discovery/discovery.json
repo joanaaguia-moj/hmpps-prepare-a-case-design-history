@@ -1,0 +1,6 @@
+{
+  "tags": ["discovery"],
+  "eleventyNavigation": {
+    "parent": "discovery"
+  }
+}

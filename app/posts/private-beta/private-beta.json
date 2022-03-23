@@ -1,0 +1,6 @@
+{
+  "tags": ["private-beta"],
+  "eleventyNavigation": {
+    "parent": "private-beta"
+  }
+}
